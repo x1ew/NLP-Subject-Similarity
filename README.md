@@ -1,4 +1,4 @@
-# NLP-Subject-Similaruty
+# NLP-Subject-Similarity
 Use Natural Language Processing to find similarity between two sentence and classify the pairs of sentences according to the subject.
 
 ## Data
